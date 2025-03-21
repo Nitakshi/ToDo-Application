@@ -34,12 +34,12 @@ public class TaskController {
     @GetMapping("/{id}/delete") //delete the task
     public String deleteTask(@PathVariable Long id){
         taskService.deleteTask(id);
-        return "redirect:/"; //name of thy template
+        return "redirect:/"; 
     }
     @GetMapping("/{id}/toggle") //delete the task
     public String toggleTask(@PathVariable Long id){
         taskService.toggleTask(id);
-        return "redirect:/"; //name of thy template
+        return "redirect:/";
     }
 
 }
