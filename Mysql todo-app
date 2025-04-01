@@ -1,0 +1,8 @@
+SELECT * FROM `todo-app`.task;
+INSERT INTO `todo-app`.`task`(`id`,`completed`,`title`)
+VALUES (1,0,'Test');
+INSERT INTO `todo-app`.`task`(`id`,`completed`,`title`)
+VALUES (2,0,'Test2');
+drop table task;
+
+
