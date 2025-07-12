@@ -29,7 +29,7 @@ A simple and responsive ToDo application built using **Spring Boot**, **Thymelea
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/Nitakshi/ToDo-Application.git
 cd todo-app
 ```
 
