@@ -37,7 +37,6 @@ cd todo-app
 ```
 CREATE DATABASE todo-app;
 ```
-.
 
 ### 3. 🌐 Access
 Once the app is running, open your browser and go to:
